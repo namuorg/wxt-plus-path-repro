@@ -1,0 +1,7 @@
+{
+  "name": "wxt-plus-path-repro",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "wxt build" },
+  "devDependencies": { "wxt": "0.21.5" }
+}
